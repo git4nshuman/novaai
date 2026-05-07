@@ -1,13 +1,6 @@
 {
-  "name": "nova-ai-chat",
-  "version": "1.0.0",
-  "description": "NOVA — A Grok-style AI chatbot with web search",
+  "name": "nova-ai-v2",
+  "version": "2.0.0",
   "private": true,
-  "scripts": {
-    "dev": "vercel dev",
-    "deploy": "vercel --prod"
-  },
-  "engines": {
-    "node": ">=18"
-  }
+  "engines": { "node": ">=18" }
 }
